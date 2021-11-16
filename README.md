@@ -34,8 +34,8 @@ To perform our meta-analysis we used the anisotropic effect-size seed-based mapp
 (AES-SDM v.5.15 for Windows 64 bits, http://www.sdmproject.com; (Radua and Mataix-Cols, 2009; Radua et al., 2014). 
 Details on this method can be found for example in Radua and Mataix-Cols, 2012.
 
-See whole-brain thalamic co-activation map across different cognitive domains
-![whole-brain thalamic co-activation maps across different cognitive domains](https://user-images.githubusercontent.com/52745263/142046361-d2586893-b710-41c6-9b4b-1b541384d727.png)
+See whole-brain thalamic co-activation map across different cognitive domains<br />
+![whole-brain thalamic co-activation maps across different cognitive domains](https://user-images.githubusercontent.com/52745263/142046361-d2586893-b710-41c6-9b4b-1b541384d727.png)<br />
 
 
 In case of any questions feel free to contact me (nora.penzel@gmail.com). 
