@@ -1,6 +1,6 @@
 # ThalamusCoActivationMaps
 
-In this repository you can find the whole-brain thalamic co-activation maps that were created in our meta-analysis: 
+In this repository (folder:Result) you can find the whole-brain thalamic co-activation maps that were created in our meta-analysis: 
 "Flexible and specific contributions of thalamic subdivisions to human cognition" 
 (Antonucci et al., Neuroscience and Biobehavioral Reviews, 2021 https://doi.org/10.1016/j.neubiorev.2021.01.014).
 In our study, we performed a literature search on Pubmed to extract studies that investigated functional MRI activity
